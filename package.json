@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "main": "bot.js",
   "engines": {
-  "node": ">=20"
-},
-  
+    "node": ">=20"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
